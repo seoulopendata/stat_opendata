@@ -198,7 +198,7 @@
 "서울시 서초구 홈페이지 행사안내 정보","일반행정","Sheet OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-12652","2015.05.22"
 "서울시 서초구 홈페이지 고시공고 정보","일반행정","Sheet OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-12653","2015.05.22"
 "서울시 건물 위치정보 (좌표계: WGS1984)","일반행정","Sheet MAP OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-13227","2016.06.10"
-"서울시 실폭도로 공간정보 (좌표계: ITRF2000)","일반행정","Sheet MAP OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-13228","2016.04.22"
+"서울시 실폭도로 공간정보 (좌표계: ITRF2000)","일반행정","Sheet MAP FILE OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-13228","2016.04.22"
 "서울시 건물 위치정보 (좌표계: ITRF2000)","일반행정","Sheet MAP OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-13224","2016.04.22"
 "서울시 스마트 불편신고 스마트앱 다운로드 현황","일반행정","Sheet OPENAPI ","http://data.seoul.go.kr/openinf/sheetview.jsp?infId=OA-12054","2014.12.18"
 "서울시 여권발급 (구별) 통계","일반행정","LINK ","http://data.seoul.go.kr/openinf/linkview.jsp?infId=OA-743","2012.02.01"
