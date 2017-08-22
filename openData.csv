@@ -2269,7 +2269,7 @@
 "서울시 버스전용차로 구간 및 운영시간 정보","교통","FILE ","http://data.seoul.go.kr/openinf/fileview.jsp?infId=OA-12871","2015.12.14"
 "서울시 지하철 운행계획 정보","교통","OPENAPI ","http://data.seoul.go.kr/openinf/openapiview.jsp?infId=OA-12759","2015.02.28"
 "서울시 지하철 호선별 역사경유 정보","교통","OPENAPI ","http://data.seoul.go.kr/openinf/openapiview.jsp?infId=OA-12761","2015.02.28"
-"서울교통공사 역간 이동 인원 (2013년 10월~2015년 8월)","교통","FILE ","http://data.seoul.go.kr/openinf/fileview.jsp?infId=OA-12923","2015.12.17"
+"서울교통공사 역간 이동 인원 현황","교통","FILE ","http://data.seoul.go.kr/openinf/fileview.jsp?infId=OA-12923","2015.12.17"
 "서울교통공사 수송. 수입 연도별 현황 (1974~2014년)","교통","FILE ","http://data.seoul.go.kr/openinf/fileview.jsp?infId=OA-12924","2015.12.17"
 "서울시 버스전용차로 현황 통계","교통","LINK ","http://data.seoul.go.kr/openinf/linkview.jsp?infId=OA-689","2012.02.01"
 "서울교통공사 연도별 일별 시간대별 역별 승하차 인원 (2010년~2016년 11월)","교통","FILE ","http://data.seoul.go.kr/openinf/fileview.jsp?infId=OA-12921","2015.12.17"
