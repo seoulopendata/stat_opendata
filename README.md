@@ -1,9 +1,9 @@
 # 서울 열린데이터광장 공공데이터 제공 목록 공개
 서울시는 2012년 5월부터 서울시 공공데이터를 민간에 개방하고 있습니다. 시민의 자발적 참여로 새로운 서비스와 공공가치 창출이 이루어지도록 공공데이터를 개방하고 공유하는 것을 주요과제로 삼고 실천해 나가고 있는 것입니다. 
  
-> 원본 데이터 : [서울열린데이터광장(data.seoul.go.kr)](http://data.seoul.go.kr)
+> 원본 데이터 : [서울열린데이터광장(data.seoul.go.kr)](https://data.seoul.go.kr)
 
-> 서비스 소개 : [열린데이터광장 소개 바로가기](http://data.seoul.go.kr/openinf/openplaza/opendataplaza.jsp)
+> 서비스 소개 : [열린데이터광장 소개 바로가기](https://data.seoul.go.kr/etc/openInfo.do)
 
  
 * **데이터 크롤링시 유의사항**
